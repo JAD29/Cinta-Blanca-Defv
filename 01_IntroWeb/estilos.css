@@ -1,0 +1,39 @@
+/* Selector {
+    Propiedades  :   valor;
+}*/
+
+*{
+    background-color: #bd160a
+}
+h1 {
+    color: rgb(13, 225, 233);
+    text-align: right;
+}
+ 
+
+p {
+    color: rgb(14, 13, 13);
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+
+img {
+    width: 200px;
+}
+
+.l1{
+    color: yellow;
+}
+
+.l2{
+    color: rgb(6, 245, 113);
+}
+
+.l3 {
+    color: rgb(216, 198, 191);
+}

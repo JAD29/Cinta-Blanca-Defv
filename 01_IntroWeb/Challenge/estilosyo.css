@@ -1,0 +1,54 @@
+/* Selector {
+    Propiedades  :   valor;
+}*/
+
+*{
+    background-color: #bd160a
+}
+h1 {
+    color: #020202;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+
+}
+ 
+.my-icon{
+    color: blue;
+    font-size: 200px;
+}
+
+p {
+    color: rgb(243, 241, 248);
+    font-size: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 61, 5);
+    font-size: 40px;
+}
+
+
+img {
+    width: 150px;
+}
+
+.one{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+.two{
+    color: rgb(128, 5, 11);
+    font-size: 20px;
+}
+
+.tres {
+    color: rgb(53, 1, 27);
+    font-size: 20px;
+}
+
+.Yo {
+    color: black;
+    font-size: 20px;
+}

@@ -1,0 +1,63 @@
+.rojo {
+    
+    height: 700px;
+    display: flex;
+    justify-content: space-around;
+    /* mueve elementos verticalmente */
+    align-items: center;
+    /* invierte los ejes y pone elementos en columna */
+    background-color: red;
+        }
+
+
+.blancoy {
+    background-color: white;
+    height: 100%;
+    width:  11%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 500px;
+
+
+        }
+
+
+.blancox {
+    background-color: white;
+    height: 15%;
+    width:  100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+         }
+
+
+
+
+.azulx {
+    background-color: blue;
+    height: 45%;
+    width:  100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.azuly {
+    background-color: blue;
+    height: 100%;
+    width:  45%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+
+

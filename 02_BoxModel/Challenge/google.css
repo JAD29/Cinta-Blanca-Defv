@@ -1,0 +1,57 @@
+/* Contenedor: referido al bloque que encierra toda la pagina 
+    encabezado: contenedor donde esta gmail, imagenes y mi foto de perfil 
+    main: el contenedor donde esta el logo de google, barra de busqueda,botones 
+        links: se refiere especificamente a Gmail e imagenes 
+        logo: logo de google
+        botones: los de busqueda con google y me siento con suerte
+        busqueda: la barra de busqueda debajo del logo
+
+*/
+
+.contenedor {
+    border: 1px black solid;
+    padding-bottom: 250px;
+}
+
+.encabezado {
+    border: 1px black solid;
+  }
+
+
+.links {
+    border: 1px black solid;
+    font-size: 14px;
+    margin-left: 1285px;
+    display: inline-block;
+
+}
+
+
+
+.main {
+    border: 1px black solid;
+    display: inline-block;
+    margin-left: 448px;
+    margin-top: 83px;
+    padding: 10px;
+
+}
+
+.logo {
+    border: 1px black solid;
+}
+
+
+.botones {
+    border: 1px black solid;
+    margin-left: 150px;
+    display: inline-block;
+    padding: 5px;
+
+}
+
+.busqueda {
+    border: 1px black solid;
+    margin-left: 200px;
+
+}
